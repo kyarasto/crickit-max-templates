@@ -42,4 +42,4 @@ Each folder contains:
    - Turn on audio / metro / toggle.
 
 3. **Play**
-   - Interact with the hardware (mic, capacitive pads).
+   - Interact with the hardware (mic, capacitive pads)!
