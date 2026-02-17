@@ -25,6 +25,10 @@ Each folder contains:
 - Arduino sends 1, 2, 3, or 4 when a pad is touched.
 - Max routes those into different notes.
 
+### drive_random_rhythm
+- Max sends byte 1-4 to arduino.
+- Arduino fires the corresponding drive pin.
+  
 ## How to use 
 
 1. **Arduino side**
