@@ -28,6 +28,10 @@ Each folder contains:
 ### drive_random_rhythm
 - Max sends byte 1-4 to arduino.
 - Arduino fires the corresponding drive pin.
+
+### random_motor
+- Max sends byte 0-255 to arduino.
+- Arduino maps this to a throttle for the motor.
   
 ## How to use 
 
