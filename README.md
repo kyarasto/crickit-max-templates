@@ -29,7 +29,7 @@ Each folder contains:
 - Max sends byte 1-4 to arduino.
 - Arduino fires the corresponding drive pin.
 
-### random_motor
+### motor_random_max
 - Max sends byte 0-255 to arduino.
 - Arduino maps this to a throttle for the motor.
   
