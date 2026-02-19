@@ -56,7 +56,7 @@ Go to Tools → Manage Libraries and install:
 
 |   | Template | What It Does |
 |---|---------|--------------|
-| 1 | Servo | Random notes mapped to servo angles (10°–180°) |
+| 1 | Servo | Random notes mapped to servo angles |
 | 2 | LEDs | Random notes mapped to RGB colors on NeoPixels |
 | 3 | DC Motor | Random speed/direction |
 | 4 | Solenoid / Drive | Random percussive hits |
