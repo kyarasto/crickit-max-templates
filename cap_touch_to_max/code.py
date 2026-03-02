@@ -1,6 +1,4 @@
-# --- CapTouch: Crickit touch pads -> Max/MSP ---
-# Copy to CIRCUITPY as code.py
-
+# --- Crickit touch pads -> Max/MSP ---
 import time
 import board
 import busio
